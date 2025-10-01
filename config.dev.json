@@ -13,7 +13,7 @@
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "[ / ]巛Camille 𝙱𝙾𝚃",
-	"prefix": "$",
+	"prefix": "@",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -21,7 +21,8 @@
 	"adminBot": [
 				"61578153767211",
 "61580333625022",
-"1286661779130987"
+"1286661779130987",
+		"61555676321829"
 	],
 	"nisanBot": [
 		"9806523922789501"
